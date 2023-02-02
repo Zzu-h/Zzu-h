@@ -28,8 +28,13 @@
 - 2022 컴퓨터 공학과 해커톤 (2022.12) - 🏆 1등 수상
 
 <br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juho7785)](https://solved.ac/juho7785/)  
+
 <br>
+
 ![Zzu-h's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Zzu-h&show_icons=true&theme=radical)     
+
 <br>
+
 [![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Zzu-h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
