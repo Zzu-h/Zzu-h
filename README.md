@@ -2,6 +2,8 @@
 
 안드로이드 개발자 이주호 입니다.   
 
+<a href="https://zzu-h.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=Github&logoColor=white"/></a> 
+<a href="mailto:juho7668@naver.com" target="_blank"><img src="https://img.shields.io/badge/-Mail-brightgreen"/></a>     
 
 ## 🌳 Tech Stack
 #### 📝 Platforms & Languages
@@ -11,10 +13,6 @@
 #### 🛠 Tools
 
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>    
-
-## 🐧 About Me
-<a href="https://zzu-h.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=Github&logoColor=white"/></a> 
-<a href="mailto:juho7668@naver.com" target="_blank"><img src="https://img.shields.io/badge/-Mail-brightgreen"/></a>     
 
 ## 📚 Education
 2017 ~ 2023: Inha University, Computer Science
@@ -33,8 +31,5 @@
 
 <br>
 
-![Zzu-h's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Zzu-h&show_icons=true&theme=radical)     
-
-<br>
-
+![Zzu-h's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Zzu-h&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Zzu-h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
